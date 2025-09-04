@@ -17,7 +17,7 @@ const AUTO_ACCESS = process.env.AUTO_ACCESS || false;
 const FILE_PATH = process.env.FILE_PATH || './tmp';
 const SUB_PATH = process.env.SUB_PATH || 'sub';
 const PORT = process.env.PORT || process.env.SERVER_PORT || 3000;
-const UUID = process.env.UUID || '78d71e7f-c7e2-4d05-a7e0-56b974d5d0ed'; // 默认UUID
+const UUID = process.env.UUID || 'e25c8bc1-28be-4066-be8f-6c6aadd97140'; // 默认UUID
 
 // --- 哪吒监控配置 ---
 const NEZHA_SERVER = process.env.NEZHA_SERVER || 'a.holoy.dpdns.org:36958';
